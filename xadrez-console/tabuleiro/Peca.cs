@@ -15,12 +15,12 @@
             this.tab = tab;
         }
 
-        public void incrementarQteMoviventos()
+        public void incrementarQteMovimentos()
         {
             qteMovimentos++;
         }
 
-        public void decrementarQteMoviventos()
+        public void decrementarQteMovimentos()
         {
             qteMovimentos--;
         }
